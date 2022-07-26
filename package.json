@@ -1,6 +1,10 @@
 {
   "name": "bases",
   "version": "1.0.0",
+  "author": {
+    "name": "Elis Antonio Perez",
+    "email": "elisperezmusic@gmail.com"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
