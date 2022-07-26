@@ -24,7 +24,7 @@ export const CounterBy = ({ initialValue = 5 }: Props) => {
   return (
     <div>
       <h2>Counter By: {counter}</h2>
-      <h2>Clicks: {clicks}</h2>
+      <p>Clicks: {clicks}</p>
       <button onClick={() => handleClick(1)}>+1</button>
       <button onClick={() => handleClick(5)}>+5</button>
     </div>
